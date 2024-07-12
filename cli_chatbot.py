@@ -11,7 +11,7 @@ def basic_questions():
     if question == "Are you a real person?":
         print("I'm a simple chatbot, and I don't have personal experiences or feelings.")
     elif question == "What's your name?":
-        print("I'm called Aida and my aim is to your aid.")
+        print("I'm called Aida and my aim is to be your aid.")
     elif question == "How are you feeling today?":
         print("I'm feeling ecstatic, thank you for asking.")
     elif question == "Recommend a book":

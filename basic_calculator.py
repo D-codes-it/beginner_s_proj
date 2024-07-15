@@ -1,4 +1,4 @@
-#A simply python code for a creating a calculator
+#A simple python code for a creating a basic calculator
 def addition (a, b):
     return a+b
 

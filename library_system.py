@@ -1,4 +1,4 @@
-#A simply library system for an admin to input, update and delete books 
+#A simple library system for an admin to input, update and delete books 
 
 books_list = []
 
